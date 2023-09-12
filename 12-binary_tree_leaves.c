@@ -4,7 +4,7 @@
  * binary_tree_leaves - counts the leaves in a binary tree
  * @tree: pointer to root node of the tree to count the number of leaves
  *
- * Return: number of leaves in the tree (0 is tree is NULL)
+ * Return: number of leaves in the tree (0 if tree is NULL)
  */
 size_t binary_tree_leaves(const binary_tree_t *tree)
 {
